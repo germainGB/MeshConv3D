@@ -13,10 +13,12 @@ The dataset to train the autoencoder should be prepared as follows:
     - For SHREC: https://www.dropbox.com/s/w16st84r6wc57u7/shrec_16.tar.gz
     - For Manifold40: https://cg.cs.tsinghua.edu.cn/dataset/subdivnet/datasets/Manifold40-MAPS-96-3.zip
 2. Put them in a folder following this structure:
-    - SHREC
-
-      -shrec (original dataset folder)
-3. Launch the training, the code will automatically create a subfolder in ./SHREC where it will create the .npz it will use for the training of the networks
+```
+|-> SHREC
+    |-> shrec (original dataset folder)
+        |-> shec folders for the different classes of the dataset
+```
+4. Launch the training, the code will automatically create a subfolder in ./SHREC where it will create the .npz it will use for the training of the networks
 
 ## Dependencies
 ```
