@@ -1,7 +1,7 @@
 # MeshConv3D
 
 Implementation of the MeshConv3D architecture for mesh autoencoders descirbed in our paper<br>
-"*A 3D Mesh Convolution-Based Autoencoder for Geometry Compression*" (https://ieeexplore.ieee.org/abstract/document/11084738/metrics#metrics)
+"*A 3D Mesh Convolution-Based Autoencoder for Geometry Compression*" (https://ieeexplore.ieee.org/abstract/document/11084738)
 The entire framework is illustrated below.
 
 <img src="architecture.png" alt="drawing" width="720"/>
