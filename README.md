@@ -31,7 +31,7 @@ The dataset to train the autoencoder should be prepared as follows:
 ## Citation
 Please cite our paper if you use this code in your own work:
 
-'''
+```
 @INPROCEEDINGS{11084738,
   author={Bregeon, Germain and Preda, Marius and Ispas, Radu and Zaharia, Titus},
   booktitle={2025 IEEE International Conference on Image Processing (ICIP)}, 
@@ -42,4 +42,4 @@ Please cite our paper if you use this code in your own work:
   pages={2199-2204},
   keywords={Geometry;Image coding;Three-dimensional displays;Image resolution;Autoencoders;Feature extraction;Image restoration;Decoding;Image reconstruction;Faces;Mesh autoencoder;mesh geometry compression;mesh convolution;mesh reconstruction},
   doi={10.1109/ICIP55913.2025.11084738}}
-'''
+```
